@@ -1,0 +1,234 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="gr__habbodeptdef_com"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<script type="text/javascript" async="" src="./United States Air Force_files/recaptcha__en.js.download"></script><script src="./United States Air Force_files/api.js.download"></script>
+		
+		
+		<title>United States Armed Forces</title>
+		<link rel="stylesheet" href="./United States Air Force_files/bootstrap.min.css">
+		<link rel="stylesheet" href="./United States Air Force_files/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="./United States Air Force_files/glob.css">
+
+		<script type="text/javascript" src="./United States Air Force_files/prototype.js.download"></script>
+		<script type="text/javascript" src="./United States Air Force_files/scriptaculous.js.download"></script><script type="text/javascript" src="./United States Air Force_files/builder.js.download"></script><script type="text/javascript" src="./United States Air Force_files/effects.js.download"></script><script type="text/javascript" src="./United States Air Force_files/dragdrop.js.download"></script><script type="text/javascript" src="./United States Air Force_files/controls.js.download"></script><script type="text/javascript" src="./United States Air Force_files/slider.js.download"></script><script type="text/javascript" src="./United States Air Force_files/sound.js.download"></script>
+		<script type="text/javascript" src="./United States Air Force_files/validation.js.download"></script>
+		<script type="text/javascript" src="./United States Air Force_files/radi.js.download"></script>
+	</head>
+	
+	<body data-gr-c-s-loaded="true">
+<nav class="navbar navbar-custom navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="https://unitedstatesaf.github.io">United States Armed Forces</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="http://habbodeptdef.com/">PTS List</a></li>
+             <li class="dropdown">
+              <a href="https://unitedstatesaf.github.io" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Discharges <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="http://habbodeptdef.com/discharges-honorable">Honorably Discharged</a></li>
+                <li><a href="http://habbodeptdef.com/discharges-dishonorable">Dishonorably Discharged</a></li>
+                <li><a href="http://habbodeptdef.com/discharges-awol">AWOL</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://habbodeptdef.com/pardon">Pardon Request</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="http://habbodeptdef.com/profile.php?uid=17#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Offices <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                 <li class="dropdown-header">United States Armed Forces Command</li>
+                <li><a href="http://habbodeptdef.com/airstaff">Joint Staff Command (JSC)</a></li>
+                <li><a href="http://habbodeptdef.com/office-afc">Office of the Secretary of Defense (OSD)</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">Additional Offices</li>
+                <li><a href="http://habbodeptdef.com/office-mpm">Manpower Personnel Management</a></li>
+                <li><a href="http://habbodeptdef.com/office-pdt">Personnel Development and Training</a></li>
+                <li><a href="http://habbodeptdef.com/office-md">Office of Military Defense</a></li>
+                <li><a href="http://habbodeptdef.com/office-frd">Office of Foreign Relations and Development</a></li>
+                <li><a href="http://habbodeptdef.com/office-prm">Office of Public Relations and Media</a></li>
+                <li><a href="http://habbodeptdef.com/office-mte">Office of Military Testing and Evaluation</a></li>
+                <li><a href="http://habbodeptdef.com/office-jag">Office of the Judge Advocate General</a></li>
+              </ul>
+            </li>
+            <li><a href="http://habbodeptdef.com/transfer">Transfer Form</a></li>
+          </ul>
+			          <ul class="nav navbar-nav navbar-right">
+
+<script type="text/javascript">
+//<![CDATA[
+$$('td.field input').invoke('observe', 'focus', function(event) {
+var ele = Event.element(event);
+ele = $('helper_' + ele.id);
+if(ele && validated == "no") {
+Effect.Appear(ele, {duration: 0.2, from: 0, to: 1});
+}
+});
+$$('td.field input').invoke('observe', 'blur', function(event) {
+var ele = Event.element(event);
+ele = $('helper_' + ele.id);
+if(ele && validated == "no") {
+Effect.Fade(ele, {duration: 0.2});
+}
+});
+new Validation('login');
+//]]>
+</script>
+					</ul>
+</li>
+</ul>
+			        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+<div class="container">
+<div class="row">
+    <center><h1>Brandon1099</h1></center><br>
+</div>
+<div class="row">
+<div class="col-md-6">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Rank
+        </div>
+        <div class="panel-body">
+            Brigadier General     </div>
+    </div>
+</div>
+<div class="col-md-6">
+    <img src="https://www.habbo.com/habbo-imaging/avatarimage?hb=image&user=Brandon1099&headonly=0&direction=4&head_direction=2&action=&gesture=&size=m">
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Motto
+        </div>
+        <div class="panel-body">
+            [U.S. Army] BG ♣   </div>
+    </div>
+</div>
+<div class="col-md-6">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Position
+        </div>
+        <div class="panel-body">
+            Brigadier General     </div>
+    </div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Office
+        </div>
+        <div class="panel-body">
+            None      </div>
+    </div>
+</div>
+<div class="col-md-6">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Join Date
+        </div>
+        <div class="panel-body">
+            26th February 2018      </div>
+    </div>
+</div>
+</div>
+<div class="panel-group" id="accordion">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <i class="fa fa-file-text" aria-hidden="true"></i> <a data-toggle="collapse" data-parent="#accordion" href="http://habbodeptdef.com/profile.php?uid=17#collapse1">Service Record</a>
+      </h4>
+    </div>
+    <div id="collapse1" class="panel-collapse collapse in">
+      <div class="panel-body">
+        <div class="table-responsive">
+          <table class="table table-condensed">
+            <thead>
+              <tr><th>Type</th><th>Former Rank</th><th>New Rank</th><th>Officer</th><th>Date</th></tr>
+            </thead>
+            <tbody>
+		    <tr data-toggle="tooltip" title="" data-original-title="Transfer accepted">
+                <td>Promotion</td>
+                <td>Civilian</td>
+                <td>Brigadier General</td>
+                <td>WastemanDan<a></a></td>
+                <td>26th February 2018</td>
+              </tr>
+                     
+                    </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel-group" id="accordion">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <i class="fa fa-file-text" aria-hidden="true"></i> <a data-toggle="collapse" data-parent="#accordion" href="http://habbodeptdef.com/profile.php?uid=17#adminrecord">Administrative Record</a>
+      </h4>
+    </div>
+    <div id="adminrecord" class="panel-collapse collapse">
+      <div class="panel-body">
+        <div class="table-responsive">
+          <table class="table table-condensed">
+            <thead>
+              <tr><th>Type</th><th>Soldier</th><th>Former Rank</th><th>New Rank</th><th>Date</th></tr>
+        
+            </thead>
+            <tbody>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel-group" id="accordion">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <i class="fa fa-file-text" aria-hidden="true"></i> <a data-toggle="collapse" data-parent="#accordion" href="http://habbodeptdef.com/profile.php?uid=17#atcrecord">AT Record</a>
+      </h4>
+    </div>
+    <div id="atcrecord" class="panel-collapse collapse">
+      <div class="panel-body">
+        <div class="table-responsive">
+          <table class="table table-condensed">
+            <thead>
+              <tr><th>AT</th><th>Training</th><th>Host</th><th>Date</th></tr>
+            </thead>
+            <tbody>
+                    </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+	<footer style="border-top: 1px solid rgba(0, 0, 0, 0.2); margin-top: 30px;">
+	    <div class="container"><p style="width: 50%; margin-top: 3px;">© United States Armed Forces<br />Site designed by WastemanDan</p>
+	</div></footer>
+	
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="./United States Air Force_files/jquery.min.js.download"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="./United States Air Force_files/bootstrap.min.js.download"></script>
+<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();
+});
+</script></body></html>
